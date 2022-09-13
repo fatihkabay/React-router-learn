@@ -11,5 +11,19 @@ h1 {
 }
 
 .link {
-  color: rgb(237, 237, 237);
+  display: flex;
+  color: rgb(0, 255, 255);
+}
+
+p {
+  color: rgb(228, 228, 228);
+  font-size: large;
+}
+
+a {
+  color: rgb(0, 255, 255);
+}
+
+.page {
+  padding: 0 25px;
 }

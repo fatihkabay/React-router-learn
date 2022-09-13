@@ -1,9 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(59, 67, 64);
+}
+
 h1 {
   font-style: italic;
   text-align: center;
   color: rgb(228, 228, 228);
 }
 
-.container {
-  background-color: rgb(59, 67, 64);
+.link {
+  color: rgb(237, 237, 237);
 }
